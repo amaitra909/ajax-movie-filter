@@ -1,10 +1,9 @@
-# Best-Boilerplate
-My favorite boilerplate for projects. Responsive HTML, Express server with compression, morgan and body parser. 404 Page. Modenizr and Jquery
+# AJAX Movie Filter
+This sprint is for learning AJAX.
 
 
-## HOW TO USE
-
-1. git clone this repository
-2. npm install (or yarn 🐈🐈🐈)
-3. npm start
-4. profit
+## Steps
+1. This is a project that has a Node.JS server. This means that you need to have `node` installed.
+2. To start, first clone this project then run `npm install`
+3. Run `npm start` and go to `localhost:3000`
+4. Open up `index.html` and `main.js`. Use jQuery (with `$.ajax()`) to complete the movie search app. Remember to use Slack for assistance!
